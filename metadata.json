@@ -1,0 +1,10 @@
+{
+  "name": "বাংলা AI স্মার্ট ভয়েস অ্যাসিস্ট্যান্ট (রবুল)",
+  "description": "রিয়েলটাইম বাংলা স্মার্ট ভয়েস অ্যাসিস্ট্যান্ট রবুল — ভয়েস কমান্ড, সরাসরি কল ডায়ালিং, তথ্য ও কৃত্রিম বুদ্ধিমত্তা চালিত সহযোগী।",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
